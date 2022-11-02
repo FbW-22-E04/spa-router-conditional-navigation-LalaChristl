@@ -34,10 +34,14 @@ h1 {
   font-size: 3.6rem;
 }
 
+p {
+  color: red;
+}
+
 input {
   width: 13rem;
   padding: 0.5rem;
-  color: white;
+  color: rgb(35, 5, 5);
   cursor: pointer;
   transition: 0.5s;
   font-size: 0.8rem;
